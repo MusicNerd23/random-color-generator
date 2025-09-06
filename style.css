@@ -17,3 +17,10 @@ button {
   font-size: 16px;
   cursor: pointer;
 }
+
+#color-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+}
